@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Survival Game</title>  
+    <!-- Phaser Scripts -->
+    <!-- <script src="js/lib/phaser.js"></script>   -->
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/phaser-matter-collision-plugin"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="survival-game"></div>
+
+    <!-- HUD -->
+    <div id="hud-container">
+        <div id="inventory-button">
+            <button id="inventory-button-icon">Inventory</button>
+        </div>
+        <div id="shop-button">
+            <button id="shop-button-icon">Shop</button>
+        </div>
+    </div>
+
+    <!-- Shop Screen -->
+    
+
+    <!-- Inventory Screen -->
+    <div id="inventory-container">
+        <div class="inventory-header">
+            <div class="header-text">Inventory</div>
+            <div id="inventory-close-btn">X</div>
+        </div>
+        <div class="inventory-sidebar"></div>
+        <div class="inventory-items-container">
+            <div class="items-header">Items</div>
+            <div id="item-grids">
+                <!-- <div class="grid-cell"></div>
+                <div class="grid-cell">
+                    <div class="fill" draggable="true"></div>
+                </div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div>
+                <div class="grid-cell"></div> -->
+            </div>
+        </div>
+        <div class="inventory-footer"></div>
+    </div>
+    <!-- End Inventory Screen -->
+    
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script type="module" src="js/survival-game.js"></script>
+</body>
+</html>

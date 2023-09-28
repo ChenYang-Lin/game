@@ -1,0 +1,372 @@
+{
+    "frames": [
+        {
+            "filename": "fiber",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "copper_ore_2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 32,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gold_bar",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 0,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gold_node",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 32,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gold_ore",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 64,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gold_ore_2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 64,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iridium_bar",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 0,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iron_bar",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 32,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iron_node",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 64,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iron_ore",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 96,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iron_ore_2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 96,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "quartz",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 96,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "quartz_bar",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 0,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "rock",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 32,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "stone",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 64,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "rock_2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 96,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "stone_2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 128,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sword",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 128,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wood",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 128,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wood_icon",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 128,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wood_icon_2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 0,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bush",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 32,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bush_2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 64,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coal",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 96,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coal_2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 128,
+                "y": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "copper_bar",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 160,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "copper_node",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 160,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "copper_ore",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 160,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

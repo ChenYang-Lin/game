@@ -1,0 +1,96 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"tree": {
+		"type": "fromPhysicsEditor",
+		"label": "tree",
+		"isStatic": false,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":10, "y":45 }, { "x":10, "y":60 }, { "x":22, "y":60 }, { "x":22, "y":45 } ]
+				]
+			},
+			{
+				"label": "transparentTrigger",
+				"isSensor": true,
+				"vertices": [
+					[ { "x":8, "y":11 }, { "x":8, "y":44 }, { "x":24, "y":44 }, { "x":24, "y":11 } ]
+				]
+			}
+		]
+	},
+	"rock": {
+		"type": "fromPhysicsEditor",
+		"label": "rock",
+		"isStatic": false,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":7, "y":16 }, { "x":7, "y":27 }, { "x":26, "y":27 }, { "x":26, "y":16 } ]
+				]
+			},
+			{
+				"label": "transparentTrigger",
+				"isSensor": true,
+				"vertices": [
+					[ { "x":12, "y":10 }, { "x":12, "y":15 }, { "x":22, "y":15 }, { "x":22, "y":10 } ]
+				]
+			}
+		]
+	},
+	"bush": {
+		"type": "fromPhysicsEditor",
+		"label": "bush",
+		"isStatic": false,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":7, "y":16 }, { "x":7, "y":27 }, { "x":26, "y":27 }, { "x":26, "y":16 } ]
+				]
+			},
+			{
+				"label": "transparentTrigger",
+				"isSensor": true,
+				"vertices": [
+					[ { "x":11, "y":10 }, { "x":11, "y":15 }, { "x":21, "y":15 }, { "x":21, "y":10 } ]
+				]
+			}
+		]
+	}
+}
